@@ -12,7 +12,7 @@
     }
 
     .login-form {
-      padding: 20px;
+      padding: 30px;
       background-color: #f8f8f8;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -50,7 +50,7 @@
     .login-form input[type="button"] {
       display: block;
       width: 320px;
-      padding: 10px;
+      padding: 40px;
       flex-shrink: 0;
       border: none;
       border-radius: 60px;
@@ -61,11 +61,7 @@
       cursor: pointer;
        
     }
-    button{
-      margin: 0 auto 
-      display:block
-      
-    }
+   
     
     .login-form input[type="submit"]:hover {
       background-color: #67f045;
@@ -84,8 +80,8 @@
       <input type="submit" value="Login">
       <label for="forgot password?"  align="center"><u><a style="color: #0A6402;" href="0">forgot password?</a></u></label>
       <h5 align="center"> Don't have an account?</h5>
-      <input type="button" value="create an account" align="center"> 
-    </form>
+      <input type="button" value="create an account" align="center">
+      </form>
   </div>
 </body>
 </html>
